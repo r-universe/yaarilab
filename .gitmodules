@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rabhit"]
+	path = rabhit
+	url = https://bitbucket.org/yaarilab/rabhit
+	shallow = true
+	registered = true
